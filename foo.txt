@@ -6,3 +6,4 @@ foo
 foo
 asdffoo
 foo
+foo
