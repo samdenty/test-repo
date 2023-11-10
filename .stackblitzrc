@@ -1,3 +1,4 @@
 {
-    "view": "editor"
+    "view": "editor",
+    "startCommand": "echo test"
 }
