@@ -1,2 +1,1 @@
-foobar
-3
+foo
